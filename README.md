@@ -1,2 +1,2 @@
 # Patient-DBMS
-Patient DBMS using Pandas
+A simple Python + MySQL-based patient management system using Excel file integration.
